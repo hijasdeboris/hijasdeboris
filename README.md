@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hijasdeboris
+- 👀 I’m interested in testing API's and creating Bots 🤖
+- 🌱 I’m currently learning Javascript
+- 💞️ I’m looking to collaborate on open source
+- 📫 How to reach me ...
+- Creating Journal App 
